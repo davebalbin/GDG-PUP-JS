@@ -40,44 +40,5 @@ Now, it's time to bring everything together with your **JavaScript Project**! Bu
 ### Skills Practice
 Throughout this study jam, focus on building your problem-solving skills and your ability to break down tasks into manageable steps. As you go through the assignments, take time to experiment and explore the code on your own. This is your opportunity to strengthen your understanding of JavaScript and become more comfortable with coding in a real-world context.
 
-## 🌟 Getting Started with GDG-PUP Repository Template
-Follow these steps to set up your own repository using the GDG-PUP template, complete with an existing directory structure and files to participate in HTML & CSS workshop.
-
-1. Access the Template:
-- Go to the main page of the GDG-PUP repository on GitHub.
-- Click on the **Use this template** button.
-
-![Step 1](./Assets/images/step1.png)
-
-2. Name and Visibility:
-
-- Name the new repository following the format GDG-PUP-HTML-AND-CSS 
-- Ensure it is set to public.
-
-![Step 2](./Assets/images/step2.png)
-
-2. Create the Repository:
-
-- Click Create repository on the lower right to generate it in your GitHub account.
-
-![Step 3](./Assets/images/step3.png)
-
-NOTE: Name it in the GDG-PUP-JS format to ensure consistency.
-
-3. Clone the Repository:
-
-- Go to the repository’s main page, click on the Code button, and choose Open with GitHub Desktop to launch it in GitHub Desktop.
-
-![Step 4](./Assets/images/step4.png)
-![Step 5](./Assets/images/step5.png)
-
-4. Complete the Clone:
-
-In GitHub Desktop, click Clone to download the repository to your local machine.
-
----
-## Submission
-- For submission, an assignment in Google Classroom will be provided where you can upload the necessary requirements for this workshop. Please check Google Classroom for further details and deadlines for each assignment.
-
 ## 🎉 Happy Coding! 
 We’re excited to see your creativity and dedication shine through this project. Let’s make this an amazing learning experience together. Remember, every line of code you write brings you one step closer to mastering wev development. Good luck, and enjoy the journey! 🚀💻
